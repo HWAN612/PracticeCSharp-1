@@ -5,3 +5,10 @@ D:\C# Code\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cach
 D:\C# Code\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
 D:\C# Code\Algorithm\Algorithm\obj\Debug\Algorithm.exe
 D:\C# Code\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\obj\Debug\Algorithm.csproj.AssemblyReference.cache
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\hyeon2-310-15\Desktop\새 폴더\PracticeCSharp-1\Algorithm\obj\Debug\Algorithm.pdb

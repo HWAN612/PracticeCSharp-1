@@ -38,28 +38,28 @@ namespace Algorithm
         public void Insert(int data, int target)
         {
             Array.Resize<int>(ref node, node.Length + 1);
-            int temp;
-            int temp2;
 
-            for (int i=target;i<node.Length - 1;i++)
+            int temp = node[target];
+            int temp2 = node[target + 1];
+
+            node[target + 1] = node[target];
+            node[target] = data;
+
+            for (int i=target; i < node.Length - 1; i++)
             {
-                temp = node[i + 1]; // 3 , 4
-                temp2 = node[i]; // 2 , 3
                 if (i == target)
                 {
+                    temp = node[i + 1];
+                    node[i + 1] = node[i];
                     node[i] = data;
-                    node[i + 1] = temp2;
                 }
                 else
                 {
                     node[i] = temp;
-                    node[i + 1] = temp2;
+                    temp = node[i + 1];
+                    node[i + 1] = node[i];
                 }
             }
-
         }
-
     }
-
-
 }
